@@ -7,7 +7,7 @@ public class RenderResolutionController : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		XRSettings.eyeTextureResolutionScale = 1.5f;
+		XRSettings.eyeTextureResolutionScale = 2.0f;
 	}
 
 }
